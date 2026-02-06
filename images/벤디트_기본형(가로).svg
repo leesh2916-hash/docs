@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 283.46 283.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #040000;
+      }
+
+      .cls-2 {
+        fill: #404499;
+      }
+
+      .cls-3 {
+        fill: url(#_무제_그라디언트_48);
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_48" data-name="무제 그라디언트 48" x1="71.09" y1="141.81" x2="84.29" y2="136.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".02" stop-color="#f0f1f7" stop-opacity=".07"/>
+      <stop offset=".12" stop-color="#c1c3de" stop-opacity=".32"/>
+      <stop offset=".22" stop-color="#999bc8" stop-opacity=".53"/>
+      <stop offset=".32" stop-color="#787bb7" stop-opacity=".7"/>
+      <stop offset=".44" stop-color="#5f62a9" stop-opacity=".84"/>
+      <stop offset=".57" stop-color="#4d51a0" stop-opacity=".93"/>
+      <stop offset=".73" stop-color="#43479a" stop-opacity=".98"/>
+      <stop offset="1" stop-color="#404499"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="cls-1" d="m126.71,130.1l-9.96,23.56h-7.81l-9.96-23.56h8.55l5.62,13.76,5.75-13.76h7.81Z"/>
+    <path class="cls-1" d="m149.1,147.66v5.99h-19.58v-23.56h19.15v5.99h-11.34v2.76h9.96v5.72h-9.96v3.1h11.78Z"/>
+    <path class="cls-1" d="m175.69,130.1v23.56h-6.53l-8.95-10.7v10.7h-7.74v-23.56h6.53l8.95,10.7v-10.7h7.74Z"/>
+    <path class="cls-1" d="m179.06,130.1c9.48-.1,24.96-1.83,24.9,11.78.06,13.6-15.44,11.88-24.9,11.78v-23.56Zm11.27,17.36c7.44.54,7.44-11.72,0-11.17,0,0-3.33,0-3.33,0v11.17h3.33Z"/>
+    <path class="cls-1" d="m206.77,130.1h7.94v23.56h-7.94v-23.56Z"/>
+    <path class="cls-1" d="m224.41,136.26h-6.9v-6.16h21.74v6.16h-6.9v17.4h-7.94v-17.4Z"/>
+  </g>
+  <polygon class="cls-2" points="44.21 121.47 58.96 162 75.8 162 61.05 121.47 44.21 121.47"/>
+  <polygon class="cls-2" points="44.21 121.47 58.96 162 75.8 162 61.05 121.47 44.21 121.47"/>
+  <polygon class="cls-3" points="90.55 121.47 73.71 121.47 68.5 135.78 76.92 158.92 90.55 121.47"/>
+</svg>
