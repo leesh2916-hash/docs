@@ -25,9 +25,9 @@
         "tabs": [
           {
             "tab": "Guides",
-            "groups": [
+            "menu": [
               {
-                "group": "Getting started",
+                "item": "안내",
                 "pages": [
                   "index",
                   "quickstart",
@@ -35,14 +35,14 @@
                 ]
               },
               {
-                "group": "Customization",
+                "item": "Customization",
                 "pages": [
                   "essentials/settings",
                   "essentials/navigation"
                 ]
               },
               {
-                "group": "Writing content",
+                "item": "Writing content",
                 "pages": [
                   "essentials/markdown",
                   "essentials/code",
@@ -51,7 +51,7 @@
                 ]
               },
               {
-                "group": "AI tools",
+                "item": "AI tools",
                 "pages": [
                   "ai-tools/cursor",
                   "ai-tools/claude-code",
